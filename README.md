@@ -1,13 +1,14 @@
 # 🚀Install project 
 **mvn clean install**
 
-###🚀 Execute test "ManagementTest"
-**cd myprojectt**
+###🚀 Execute test "ManagementTest" <br>
+**cd myproject**
 
 **mvn clean test**
 
 ### 🚀Launch by tags
-**cd myprojectt**
+
+**cd myproject**<br>
 **mvn clean test "-Dkarate.options=--tags @beers"**
 
 ### 🚀View report
