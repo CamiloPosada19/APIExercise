@@ -1,4 +1,5 @@
-# 🚀Install project 
+# 🚀Install project <br>
+**cd myproject** <br>
 **mvn clean install**
 
 ###🚀 Execute test "ManagementTest" <br>
